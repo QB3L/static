@@ -13,13 +13,20 @@
       <width>152</width>
       <height>30</height>
     </image>
+	<item>
+      <title>New Item</title>
+      <pubDate>Sun, 19 Mar 2017 11:30:21 GMT</pubDate>
+      <link>http://letmeknow-webapp.herokuapp.com</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>This is a new item!!!</description>
+    </item>
     <item>
       <title>New Item</title>
       <pubDate>Sun, 15 Mar 2017 10:40:21 GMT</pubDate>
       <link>http://letmeknow-webapp.herokuapp.com</link>
       <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
       <description>This is a new item!!!</description>
-    </item>    
+    </item>
     <item>
       <title>New Item</title>
       <pubDate>Sun, 30 Oct 2016 10:40:21 GMT</pubDate>
