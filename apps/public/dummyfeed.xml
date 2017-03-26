@@ -13,13 +13,20 @@
       <width>152</width>
       <height>30</height>
     </image>
+  <item>
+      <title>Tuesday testing</title>
+      <pubDate>Tue, 28 Mar 2017 9:15:11 -0600</pubDate>
+      <link>http://letmeknow-webapp.herokuapp.com</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>Sunday testing</description>
+  </item>    
 	<item>
       <title>Monday testing</title>
       <pubDate>Mon, 27 Mar 2017 8:15:11 -0600</pubDate>
       <link>http://letmeknow-webapp.herokuapp.com</link>
       <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
       <description>Sunday testing</description>
-    </item>    
+  </item>
 	<item>
       <title>Sunday testing</title>
       <pubDate>Sun, 26 Mar 2017 7:15:11 -0600</pubDate>
