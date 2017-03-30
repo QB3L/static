@@ -14,6 +14,13 @@
       <height>30</height>
     </image>
   <item>
+      <title>Thursday Hit</title>
+      <pubDate>Thu, 30 Mar 2017 7:15:11 -0600</pubDate>
+      <link>http://letmeknow-webapp.herokuapp.com</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>Thursday Hit!!!</description>
+  </item>    
+  <item>
       <title>Tuesday testing</title>
       <pubDate>Wed, 29 Mar 2017 7:15:11 -0600</pubDate>
       <link>http://letmeknow-webapp.herokuapp.com</link>
