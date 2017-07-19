@@ -15,6 +15,18 @@
     </image>
   <item>
       <title>Cause an error</title>
+      <pubDate>Wed, 19 Jul 2017 11:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>
+	      <html>
+		      <h1>Smaller htmls</h1>
+		      <span>noise</span>
+	      </html>
+      </description>
+  </item>
+  <item>
+      <title>Cause an error</title>
       <pubDate>Fri, 02 Jun 2017 11:35:11 -0600</pubDate>
       <link>http://google.com/rss</link>
       <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
