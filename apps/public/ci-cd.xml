@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://dl.dropboxusercontent.com/u/21621962/testfeeds/dummyfeed1.xml" rel="self" type="application/rss+xml" />
+    <title>Dummy Feed</title>
+    <link>http://qb3l.github.io/static/apps/</link>
+    <description>Test Feed</description>
+    <language>en-us</language>    
+    <image>
+      <title>random image</title>
+      <link>https://dl.dropboxusercontent.com/u/21621962/testfeeds/letmeknow_logo.png</link>
+      <url>https://dl.dropboxusercontent.com/u/21621962/testfeeds/letmeknow_logo.png</url>
+      <width>152</width>
+      <height>30</height>
+    </image>
+    <item>
+        <title>Okay</title>
+        <pubDate>Fri, 02 Jun 2017 11:35:11 -0600</pubDate>
+        <link>http://google.com/rss</link>
+        <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+        <description>
+            <html>
+                <h1>HTML HEADER HERE</h1>
+                <span>span here</span>
+            </html>
+        </description>
+    </item>
+</rss>
