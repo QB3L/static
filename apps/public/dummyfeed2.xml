@@ -14,6 +14,18 @@
       <height>30</height>
     </image>
     <item>
+      <title>Testing after version 2.0</title>
+      <pubDate>Fri, 21 Jul 2017 12:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>
+	      <html>
+		      <h1>something crazy</h1>
+		      <span>noise</span>
+	      </html>
+      </description>
+  </item>
+    <item>
       <title>It's Friday!</title>
       <pubDate>Fri, 21 Jul 2017 04:35:11 -0600</pubDate>
       <link>http://google.com/rss</link>
