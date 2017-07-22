@@ -14,105 +14,90 @@
       <height>30</height>
     </image>
     <item>
-      <title>Testing after version 2.0</title>
+    <title>Number 10</title>
       <pubDate>Fri, 21 Jul 2017 12:35:11 -0600</pubDate>
       <link>http://google.com/rss</link>
       <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
       <description>
-	      <html>
-		      <h1>something crazy</h1>
-		      <span>noise</span>
-	      </html>
+	      <html><h1>header1</h1><span>noise</span></html>
       </description>
-  </item>
+    </item>
     <item>
-      <title>It's Friday!</title>
-      <pubDate>Fri, 21 Jul 2017 04:35:11 -0600</pubDate>
+    <title>Number 9</title>
+      <pubDate>Thu, 20 Jul 2017 12:35:11 -0600</pubDate>
       <link>http://google.com/rss</link>
       <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
       <description>
-	      <html>
-		      <h1>something crazy</h1>
-		      <span>noise</span>
-	      </html>
+	      <html><h1>header1</h1><span>noise</span></html>
       </description>
-  </item>
-  <item>
-      <title>New value!!!</title>
-      <pubDate>Thu, 20 Jul 2017 10:35:11 -0600</pubDate>
+    </item>
+    <item>
+    <title>Number 8</title>
+      <pubDate>Wed, 19 Jul 2017 12:35:11 -0600</pubDate>
       <link>http://google.com/rss</link>
       <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
       <description>
-	      <html>
-		      <h1>something crazy</h1>
-		      <span>noise</span>
-	      </html>
+	      <html><h1>header1</h1><span>noise</span></html>
       </description>
-  </item>
-  <item>
-      <title>Cause an error</title>
-      <pubDate>Wed, 19 Jul 2017 11:35:11 -0600</pubDate>
+    </item>
+    <item>
+    <title>Number 7</title>
+      <pubDate>Tue, 18 Jul 2017 12:35:11 -0600</pubDate>
       <link>http://google.com/rss</link>
       <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
       <description>
-	      <html>
-		      <h1>Smaller htmls</h1>
-		      <span>noise</span>
-	      </html>
+	      <html><h1>header1</h1><span>noise</span></html>
       </description>
-  </item>
-  <item>
-      <title>Cause an error</title>
-      <pubDate>Fri, 02 Jun 2017 11:35:11 -0600</pubDate>
+    </item>
+    <item>
+    <title>Number 6</title>
+      <pubDate>Mon, 17 Jul 2017 12:35:11 -0600</pubDate>
       <link>http://google.com/rss</link>
       <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
       <description>
-	      <html>
-		      <h1>Smaller htmls</h1>
-		      <span>noise</span>
-	      </html>
+	      <html><h1>header1</h1><span>noise</span></html>
       </description>
-  </item>    
-  <item>
-      <title>This is gonna work!!!</title>
-      <pubDate>Fri, 31 Mar 2017 13:35:11 -0600</pubDate>
-      <link>http://letmeknow-webapp.herokuapp.com</link>
+    </item>
+    <item>
+    <title>Number 5</title>
+      <pubDate>Sund, 16 Jul 2017 12:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
       <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
-      <description>This is a very long string, This is a very long string,This is a very long string
-      This is a very long stringThis is a very long stringThis is a very long stringThis is a very long stringThis is a very long stringThis is a very long string,
-      This is a very long stringThis is a very long stringThis is a very long stringThis is a very long stringThis is a very long stringThis is a very long string,
-      This is a very long stringThis is a very long stringThis is a very long stringThis is a very long stringThis is a very long string,
-      This is a very long stringThis is a very long stringThis is a very long stringThis is a very long stringThis is a very long stringThis is a very long stringThis is a very long string,
-      This is a very long stringThis is a very long stringThis is a very long stringThis is a very long stringThis is a very long string,
+      <description>
+	      <html><h1>header1</h1><span>noise</span></html>
       </description>
-  </item>    
-  <item>
-      <title>Sunday Hit 7</title>
-      <pubDate>Sun, 28 May 2017 12:35:11 -0600</pubDate>
-      <link>www.google.com</link>
-      <guid>a33a9a9ad088de1cdfcc7b2544c29fa8</guid>
-      <description>This is pretty awesome</description>
-  </item>	  
-  <item>
-      <title>Friday Hit 6</title>
-      <pubDate>Fri, 31 Mar 2017 12:35:11 -0600</pubDate>
-      <link>http://letmeknow-webapp.herokuapp.com</link>
+    </item>
+    <title>Number 4</title>
+      <pubDate>Sat, 15 Jul 2017 12:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
       <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
-      <description>Friday Hit 6</description>
-  </item>    
-  <item>
-      <title>Friday Hit 5</title>
-      <pubDate>Fri, 31 Mar 2017 11:35:11 -0600</pubDate>
-      <link>http://letmeknow-webapp.herokuapp.com</link>
+      <description>
+	      <html><h1>header1</h1><span>noise</span></html>
+      </description>
+    </item>
+    <title>Number 3</title>
+      <pubDate>Fri, 14 Jul 2017 12:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
       <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
-      <description>Friday Hit 5</description>
-  </item>    
-  <item>
-      <title>Friday Hit 4</title>
-      <pubDate>Fri, 31 Mar 2017 10:35:11 -0600</pubDate>
-      <link>http://letmeknow-webapp.herokuapp.com</link>
+      <description>
+	      <html><h1>header1</h1><span>noise</span></html>
+      </description>
+    </item>
+    <title>Number 2</title>
+      <pubDate>Thu, 13 Jul 2017 12:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
       <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
-      <description>Friday Hit 4</description>
-  </item>
+      <description>
+	      <html><h1>header1</h1><span>noise</span></html>
+      </description>
+    </item>
+    <title>Number 1</title>
+      <pubDate>Wed, 12 Jul 2017 12:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>
+	      <html><h1>header1</h1><span>noise</span></html>
+      </description>
+    </item>
   </channel>
 </rss>
