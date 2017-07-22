@@ -3,26 +3,116 @@
   <channel>
     <atom:link href="https://dl.dropboxusercontent.com/u/21621962/testfeeds/dummyfeed1.xml" rel="self" type="application/rss+xml" />
     <title>Dummy Feed</title>
-    <link>http://qb3l.github.io/static/apps/</link>
-    <description>Test Feed</description>
+    <link>http://letmeknow.live</link>
+    <description>Test Feeds for Letmeknow!</description>
     <language>en-us</language>    
     <image>
-      <title>random image</title>
+      <title>letmeknow logo</title>
       <link>https://dl.dropboxusercontent.com/u/21621962/testfeeds/letmeknow_logo.png</link>
       <url>https://dl.dropboxusercontent.com/u/21621962/testfeeds/letmeknow_logo.png</url>
       <width>152</width>
       <height>30</height>
     </image>
     <item>
-        <title>Okay</title>
-        <pubDate>Fri, 02 Jun 2017 11:35:11 -0600</pubDate>
-        <link>http://google.com/rss</link>
-        <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
-        <description>
-            <html>
-                <h1>HTML HEADER HERE</h1>
-                <span>span here</span>
-            </html>
-        </description>
-    </item>
+      <title>Testing after version 2.0</title>
+      <pubDate>Fri, 21 Jul 2017 12:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>
+	      <html>
+		      <h1>something crazy</h1>
+		      <span>noise</span>
+	      </html>
+      </description>
+  </item>
+    <item>
+      <title>It's Friday!</title>
+      <pubDate>Fri, 21 Jul 2017 04:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>
+	      <html>
+		      <h1>something crazy</h1>
+		      <span>noise</span>
+	      </html>
+      </description>
+  </item>
+  <item>
+      <title>New value!!!</title>
+      <pubDate>Thu, 20 Jul 2017 10:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>
+	      <html>
+		      <h1>something crazy</h1>
+		      <span>noise</span>
+	      </html>
+      </description>
+  </item>
+  <item>
+      <title>Cause an error</title>
+      <pubDate>Wed, 19 Jul 2017 11:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>
+	      <html>
+		      <h1>Smaller htmls</h1>
+		      <span>noise</span>
+	      </html>
+      </description>
+  </item>
+  <item>
+      <title>Cause an error</title>
+      <pubDate>Fri, 02 Jun 2017 11:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>
+	      <html>
+		      <h1>Smaller htmls</h1>
+		      <span>noise</span>
+	      </html>
+      </description>
+  </item>    
+  <item>
+      <title>This is gonna work!!!</title>
+      <pubDate>Fri, 31 Mar 2017 13:35:11 -0600</pubDate>
+      <link>http://letmeknow-webapp.herokuapp.com</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>This is a very long string, This is a very long string,This is a very long string
+      This is a very long stringThis is a very long stringThis is a very long stringThis is a very long stringThis is a very long stringThis is a very long string,
+      This is a very long stringThis is a very long stringThis is a very long stringThis is a very long stringThis is a very long stringThis is a very long string,
+      This is a very long stringThis is a very long stringThis is a very long stringThis is a very long stringThis is a very long string,
+      This is a very long stringThis is a very long stringThis is a very long stringThis is a very long stringThis is a very long stringThis is a very long stringThis is a very long string,
+      This is a very long stringThis is a very long stringThis is a very long stringThis is a very long stringThis is a very long string,
+      </description>
+  </item>    
+  <item>
+      <title>Sunday Hit 7</title>
+      <pubDate>Sun, 28 May 2017 12:35:11 -0600</pubDate>
+      <link>www.google.com</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa8</guid>
+      <description>This is pretty awesome</description>
+  </item>	  
+  <item>
+      <title>Friday Hit 6</title>
+      <pubDate>Fri, 31 Mar 2017 12:35:11 -0600</pubDate>
+      <link>http://letmeknow-webapp.herokuapp.com</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>Friday Hit 6</description>
+  </item>    
+  <item>
+      <title>Friday Hit 5</title>
+      <pubDate>Fri, 31 Mar 2017 11:35:11 -0600</pubDate>
+      <link>http://letmeknow-webapp.herokuapp.com</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>Friday Hit 5</description>
+  </item>    
+  <item>
+      <title>Friday Hit 4</title>
+      <pubDate>Fri, 31 Mar 2017 10:35:11 -0600</pubDate>
+      <link>http://letmeknow-webapp.herokuapp.com</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>Friday Hit 4</description>
+  </item>
+  </channel>
 </rss>
