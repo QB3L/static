@@ -24,6 +24,18 @@
 		      <span>noise</span>
 	      </html>
       </description>
+  </item>  
+    <item>
+      <title>This is an extremely long title that I want to see okay. I don't want to see anything else here but a very very very very very very very very very very long title. This is an extremely long title that I want to see okay. I don't want to see anything else here but a very very very very very very very very very very long title.</title>
+      <pubDate>Tue, 01 Aug 2017 11:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>
+	      <html>
+		      <h1>something crazy</h1>
+		      <span>noise</span>
+	      </html>
+      </description>
   </item>    
     <item>
       <title>Testing after version 2.0</title>
