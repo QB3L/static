@@ -1,0 +1,54 @@
+body {
+    background:rgb(242,242,242);
+    margin:0;
+    padding:0;
+    font-family:arial,helvetica,sans-serif;
+    text-align:center;
+    padding:10px;
+    color:rgb(0,204,255);
+    font-size:16px;
+}
+
+#container {
+    width:300px;
+    margin:0 auto;
+}
+h1 {
+    margin:0;
+    padding:0;
+    font-size:14px;
+}
+p {
+    font-size:13px;
+}
+.link {
+    background:rgb(0,88,145);
+    border-top:1px solid ;
+    border:1px solid #dfebf8;
+    margin-top:.5em;
+    padding:.3em;
+    height:44px;
+    line-height:44px;
+}
+.link a {
+    text-decoration:none;
+    font-size:15px;
+    display:block;
+    color:rgb(255,255,255);
+}
+
+
+/*
+TEXT FIELDS
+*/
+.style-1 {
+    width: 200px;
+    padding: 10px;
+    border: solid 1px #dcdcdc;
+    transition: box-shadow 0.3s, border 0.3s;
+  }
+.style-1:focus,
+.style-1.focus {
+    border: solid 1px #707070;
+    box-shadow: 0 0 5px 1px #969696;
+}

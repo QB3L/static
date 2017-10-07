@@ -5,43 +5,24 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 <title>Beta Testing</title>
 <link rel="apple-touch-icon" href="my-app-icon.png" />
-<style type="text/css">
-body {background:rgb(242,242,242);margin:0;padding:0;font-family:arial,helvetica,sans-serif;text-align:center;padding:10px;color:rgb(0,204,255);font-size:16px;}
-#container {width:300px;margin:0 auto;}
-h1 {margin:0;padding:0;font-size:14px;}
-p {font-size:13px;}
-.link {background:rgb(0,88,145);border-top:1px solid ;border:1px solid #dfebf8;margin-top:.5em;padding:.3em;}
-.subbu {background:rgb(0,145,145)}
-.link a {text-decoration:none;font-size:15px;display:block;color:rgb(255,255,255);}
-.link2 {background:rgb(235,10,134);border-top:1px solid ;border:1px solid #dfebf8;margin-top:.5em;padding:.3em;}
-.link2 a {text-decoration:none;font-size:15px;display:block;color:rgb(255,255,255);}
-
-RGBA(0, 88, 145, 1)
-
-</style>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div class="link"><a href="boxer-feature://BoxerEnsEnabledForPush?signature=e1df6749968518e89521c7a5aa2253d1&url=https%3A%2F%2Fens.getboxer.com%2Fapi%2Fens">
+        Tap Here enabling Boxer ENS</a>
+    </div>
+    <br>
+    <br>
 
-<h1>Boxer Enable ENS:</h1>
-<div class="link"><a href="boxer-feature://BoxerEnsEnabledForPush?signature=e1df6749968518e89521c7a5aa2253d1&url=https%3A%2F%2Fens.getboxer.com%2Fapi%2Fens">Tap Here enabling Boxer ENS</a></div>
-<br>
-<br>
+    <div class="link"><a href="boxer-feature://BoxerEnsEnabledForPush?signature=e1df6749968518e89521c7a5aa2253d1&url=https%3A%2F%2Fens-staging.getboxer.com%2Fapi%2Fens">
+        Tap Here enabling Boxer ENS
+    </a></div>
+    <br>
+    <br>
 
-<h1>Boxer Enable ENS on Staging Environment:</h1>
-<div class="link"><a href="boxer-feature://BoxerEnsEnabledForPush?signature=e1df6749968518e89521c7a5aa2253d1&url=https%3A%2F%2Fens-staging.getboxer.com%2Fapi%2Fens">Tap Here enabling Boxer ENS</a></div>
-<br>
-<br>
+    <div id="custom-link"></div>
 
-<h1>Boxer Enable ENS on Local Environment:</h1>
-<div class="link"><a href="boxer-feature://BoxerEnsEnabledForPush?signature=e1df6749968518e89521c7a5aa2253d1&url=http%3A%2F%2F3bc1be3b.ngrok.io%2FMailNotificationService%2Fapi%2Fens">Tap Here enabling Boxer ENS on OnPrem</a></div>
-<br>
-<br>
-
-
-<p><strong>Link didn't work?</strong><br />
-Make sure you're visiting this page on your device, not your computer.</p>
-
-</div>
-
+<script src="https://unpkg.com/vue"></script>
+<script src="./main.js"></script>
 </body>
 </html>
