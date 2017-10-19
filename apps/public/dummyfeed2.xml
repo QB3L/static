@@ -208,42 +208,42 @@
     </item>   
 	<item>
       <title>New Item</title>
-      <pubDate>Fri, 24 Mar 2017 10:35:OO GMT</pubDate>
+      <pubDate>Fri, 24 Mar 2017 10:35:00 -0600</pubDate>
       <link>http://letmeknow-webapp.herokuapp.com</link>
       <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
       <description>Friday testing</description>
     </item>
 	<item>
       <title>New Item</title>
-      <pubDate>Mon, 20 Mar 2017 10:30:21 GMT</pubDate>
+      <pubDate>Mon, 20 Mar 2017 10:30:21 -0600</pubDate>
       <link>http://letmeknow-webapp.herokuapp.com</link>
       <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
       <description>Whoo sunday Item!!!</description>
     </item>
 	<item>
       <title>New Item</title>
-      <pubDate>Sun, 19 Mar 2017 11:30:21 GMT</pubDate>
+      <pubDate>Sun, 19 Mar 2017 11:30:21 -0600</pubDate>
       <link>http://letmeknow-webapp.herokuapp.com</link>
       <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
       <description>This is a new item!!!</description>
     </item>
     <item>
       <title>New Item</title>
-      <pubDate>Sun, 15 Mar 2017 10:40:21 GMT</pubDate>
+      <pubDate>Sun, 15 Mar 2017 10:40:21 -0600</pubDate>
       <link>http://letmeknow-webapp.herokuapp.com</link>
       <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
       <description>This is a new item!!!</description>
     </item>
     <item>
       <title>New Item</title>
-      <pubDate>Sun, 30 Oct 2016 10:40:21 GMT</pubDate>
+      <pubDate>Sun, 30 Oct 2016 10:40:21 -0600</pubDate>
       <link>http://letmeknow-webapp.herokuapp.com</link>
       <guid>a33a9a9ad088de1cdfcc7b2544c29fa0</guid>
       <description>This is a very old item</description>
     </item>
     <item>
       <title>Old Item</title>
-      <pubDate>Tue, 25 Oct 2016 12:40:21 GMT</pubDate>
+      <pubDate>Tue, 25 Oct 2016 12:40:21 -0600</pubDate>
       <link>http://letmeknow-webapp.herokuapp.com</link>
       <guid>a33a9a9ad088de1cdfcc7b2544c29fa0</guid>
       <description>This is a very old item</description>
