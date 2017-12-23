@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://dl.dropboxusercontent.com/u/21621962/testfeeds/dummyfeed1.xml" rel="self" type="application/rss+xml" />
+    <title>Dummy Feed</title>
+    <link>http://letmeknow.live</link>
+    <description>Test Feeds for Letmeknow!</description>
+    <language>en-us</language>    
+    <image>
+      <title>letmeknow</title>
+      <link>https://dl.dropboxusercontent.com/u/21621962/testfeeds/letmeknow_logo.png</link>
+      <url>https://dl.dropboxusercontent.com/u/21621962/testfeeds/letmeknow_logo.png</url>
+      <width>152</width>
+      <height>30</height>
+    </image>
+    <item>
+    <title>Number 10</title>
+      <pubDate>Fri, 21 Jul 2017 12:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>
+	      <html><h1>header1</h1><span>noise</span></html>
+      </description>
+    </item>
+    <item>
+    <title>Number 9</title>
+      <pubDate>Thu, 20 Jul 2017 12:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>
+	      <html><h1>header1</h1><span>noise</span></html>
+      </description>
+    </item>
+    <item>
+    <title>Number 8</title>
+      <pubDate>Wed, 19 Jul 2017 12:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>
+	      <html><h1>header1</h1><span>noise</span></html>
+      </description>
+    </item>
+    <item>
+    <title>Number 7</title>
+      <pubDate>Tue, 18 Jul 2017 12:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>
+	      <html><h1>header1</h1><span>noise</span></html>
+      </description>
+    </item>
+    <item>
+    <title>Number 6</title>
+      <pubDate>Mon, 17 Jul 2017 12:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>
+	      <html><h1>header1</h1><span>noise</span></html>
+      </description>
+    </item>
+    <item>
+    <title>Number 5</title>
+      <pubDate>Sund, 16 Jul 2017 12:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>
+	      <html><h1>header1</h1><span>noise</span></html>
+      </description>
+    </item>
+    <item>
+    <title>Number 4</title>
+      <pubDate>Sat, 15 Jul 2017 12:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>
+	      <html><h1>header1</h1><span>noise</span></html>
+      </description>
+    </item>
+    <item>
+    <title>Number 3</title>
+      <pubDate>Fri, 14 Jul 2017 12:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>
+	      <html><h1>header1</h1><span>noise</span></html>
+      </description>
+    </item>
+    <item>
+    <title>Number 2</title>
+      <pubDate>Thu, 13 Jul 2017 12:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>
+	      <html><h1>header1</h1><span>noise</span></html>
+      </description>
+    </item>
+    <item>
+    <title>Number 1</title>
+      <pubDate>Wed, 12 Jul 2017 12:35:11 -0600</pubDate>
+      <link>http://google.com/rss</link>
+      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
+      <description>
+	      <html><h1>header1</h1><span>noise</span></html>
+      </description>
+    </item>
+  </channel>
+</rss>
