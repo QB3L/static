@@ -1,107 +1,428 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <atom:link href="https://dl.dropboxusercontent.com/u/21621962/testfeeds/dummyfeed1.xml" rel="self" type="application/rss+xml" />
-    <title>Dummy Feed</title>
-    <link>http://letmeknow.live</link>
-    <description>Test Feeds for Letmeknow!</description>
-    <language>en-us</language>    
-    <image>
-      <title>letmeknow</title>
-      <link>https://dl.dropboxusercontent.com/u/21621962/testfeeds/letmeknow_logo.png</link>
-      <url>https://dl.dropboxusercontent.com/u/21621962/testfeeds/letmeknow_logo.png</url>
-      <width>152</width>
-      <height>30</height>
-    </image>
-    <item>
-    <title>Number 10</title>
-      <pubDate>Fri, 21 Jul 2017 12:35:11 -0600</pubDate>
-      <link>http://google.com/rss</link>
-      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
-      <description>
-	      <html><h1>header1</h1><span>noise</span></html>
-      </description>
-    </item>
-    <item>
-    <title>Number 9</title>
-      <pubDate>Thu, 20 Jul 2017 12:35:11 -0600</pubDate>
-      <link>http://google.com/rss</link>
-      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
-      <description>
-	      <html><h1>header1</h1><span>noise</span></html>
-      </description>
-    </item>
-    <item>
-    <title>Number 8</title>
-      <pubDate>Wed, 19 Jul 2017 12:35:11 -0600</pubDate>
-      <link>http://google.com/rss</link>
-      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
-      <description>
-	      <html><h1>header1</h1><span>noise</span></html>
-      </description>
-    </item>
-    <item>
-    <title>Number 7</title>
-      <pubDate>Tue, 18 Jul 2017 12:35:11 -0600</pubDate>
-      <link>http://google.com/rss</link>
-      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
-      <description>
-	      <html><h1>header1</h1><span>noise</span></html>
-      </description>
-    </item>
-    <item>
-    <title>Number 6</title>
-      <pubDate>Mon, 17 Jul 2017 12:35:11 -0600</pubDate>
-      <link>http://google.com/rss</link>
-      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
-      <description>
-	      <html><h1>header1</h1><span>noise</span></html>
-      </description>
-    </item>
-    <item>
-    <title>Number 5</title>
-      <pubDate>Sund, 16 Jul 2017 12:35:11 -0600</pubDate>
-      <link>http://google.com/rss</link>
-      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
-      <description>
-	      <html><h1>header1</h1><span>noise</span></html>
-      </description>
-    </item>
-    <item>
-    <title>Number 4</title>
-      <pubDate>Sat, 15 Jul 2017 12:35:11 -0600</pubDate>
-      <link>http://google.com/rss</link>
-      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
-      <description>
-	      <html><h1>header1</h1><span>noise</span></html>
-      </description>
-    </item>
-    <item>
-    <title>Number 3</title>
-      <pubDate>Fri, 14 Jul 2017 12:35:11 -0600</pubDate>
-      <link>http://google.com/rss</link>
-      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
-      <description>
-	      <html><h1>header1</h1><span>noise</span></html>
-      </description>
-    </item>
-    <item>
-    <title>Number 2</title>
-      <pubDate>Thu, 13 Jul 2017 12:35:11 -0600</pubDate>
-      <link>http://google.com/rss</link>
-      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
-      <description>
-	      <html><h1>header1</h1><span>noise</span></html>
-      </description>
-    </item>
-    <item>
-    <title>Number 1</title>
-      <pubDate>Wed, 12 Jul 2017 12:35:11 -0600</pubDate>
-      <link>http://google.com/rss</link>
-      <guid>a33a9a9ad088de1cdfcc7b2544c29fa3</guid>
-      <description>
-	      <html><h1>header1</h1><span>noise</span></html>
-      </description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+	<link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCY1Yc3xA1aY0lqnKUTDTi7A"/>
+	<id>yt:channel:UCY1Yc3xA1aY0lqnKUTDTi7A</id>
+	<yt:channelId>UCY1Yc3xA1aY0lqnKUTDTi7A</yt:channelId>
+	<title>HellthyJunkFood</title>
+	<link rel="alternate" href="https://www.youtube.com/channel/UCY1Yc3xA1aY0lqnKUTDTi7A"/>
+	<author>
+		<name>HellthyJunkFood</name>
+		<uri>
+https://www.youtube.com/channel/UCY1Yc3xA1aY0lqnKUTDTi7A
+</uri>
+	</author>
+	<published>2013-01-26T16:31:42+00:00</published>
+	<entry>
+		<id>yt:video:SmqLoqByhL0</id>
+		<yt:videoId>SmqLoqByhL0</yt:videoId>
+		<yt:channelId>UCY1Yc3xA1aY0lqnKUTDTi7A</yt:channelId>
+		<title>DIY 5 POUND POTATO SKIN - JULIA LEFT JP</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=SmqLoqByhL0"/>
+		<author>
+			<name>HellthyJunkFood</name>
+			<uri>
+https://www.youtube.com/channel/UCY1Yc3xA1aY0lqnKUTDTi7A
+</uri>
+		</author>
+		<published>2018-01-13T16:00:03+00:00</published>
+		<updated>2018-01-16T22:06:47+00:00</updated>
+		<media:group>
+			<media:title>DIY 5 POUND POTATO SKIN - JULIA LEFT JP</media:title>
+			<media:content url="https://www.youtube.com/v/SmqLoqByhL0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+			<media:thumbnail url="https://i4.ytimg.com/vi/SmqLoqByhL0/hqdefault.jpg" width="480" height="360"/>
+			<media:description>
+Download Best Fiends for FREE: http://download.BestFiends.com/WinterUpdate and get $5 worth of gold and diamonds for FREE if you beat level 3! - Sponsored by Best Fiends It's true, Julia is gone so I gotta go back to my roots and win her back with the first recipe we ever did on this channel. Potato Skins. MERCH: http://bit.ly/HJFShop JP and JULIA CHANNEL!! https://www.youtube.com/c/JPJulia FULL RECIPE DETAILS: http://www.hellthyjunkfood.com/potato-skin/ 🍔Social Media Links🍔 @HellthyJunkFood http://www.facebook.com/hellthyjunkfood http://www.instagram.com/hellthyjunkfood http://www.twitter.com/hellthyjunkfood http://www.patreon.com/hellthyjunkfood http://www.twitch.com/hellthyjunkfood Snapchat - HellthyJunkFood Music - Epidemic Sound
+</media:description>
+			<media:community>
+				<media:starRating count="11036" average="4.88" min="1" max="5"/>
+				<media:statistics views="315488"/>
+			</media:community>
+		</media:group>
+	</entry>
+	<entry>
+		<id>yt:video:eSbK-C3xhD0</id>
+		<yt:videoId>eSbK-C3xhD0</yt:videoId>
+		<yt:channelId>UCY1Yc3xA1aY0lqnKUTDTi7A</yt:channelId>
+		<title>TESTING 5 BACON GADGETS - DO THEY WORK??</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=eSbK-C3xhD0"/>
+		<author>
+			<name>HellthyJunkFood</name>
+			<uri>
+https://www.youtube.com/channel/UCY1Yc3xA1aY0lqnKUTDTi7A
+</uri>
+		</author>
+		<published>2018-01-07T14:00:03+00:00</published>
+		<updated>2018-01-16T21:53:19+00:00</updated>
+		<media:group>
+			<media:title>TESTING 5 BACON GADGETS - DO THEY WORK??</media:title>
+			<media:content url="https://www.youtube.com/v/eSbK-C3xhD0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+			<media:thumbnail url="https://i2.ytimg.com/vi/eSbK-C3xhD0/hqdefault.jpg" width="480" height="360"/>
+			<media:description>
+I've always wanted perfectly cooked bacon without putting in any effort. Watch and find out which of these works best and why. Big thanks to DudesNSpace for being our taste testers! Subscribe to DudesNSpace https://www.youtube.com/dudesnspace/ BACON MACHINES #1 Abby: http://amzn.to/2EfTY6T #2 Baconwave: http://amzn.to/2F7paq4 #3 Lekue: http://amzn.to/2CZZvir #4 Bacon Boss: http://amzn.to/2CA0BAs #5 Bacon Express: http://amzn.to/2CA9zxM MERCH: http://bit.ly/HJFShop JP and JULIA CHANNEL!! https://www.youtube.com/c/JPJulia 🍔Social Media Links🍔 @HellthyJunkFood http://www.facebook.com/hellthyjunkfood http://www.instagram.com/hellthyjunkfood http://www.twitter.com/hellthyjunkfood http://www.patreon.com/hellthyjunkfood http://www.twitch.com/hellthyjunkfood Snapchat - HellthyJunkFood Music - Epidemic Sound
+</media:description>
+			<media:community>
+				<media:starRating count="7873" average="4.89" min="1" max="5"/>
+				<media:statistics views="260346"/>
+			</media:community>
+		</media:group>
+	</entry>
+	<entry>
+		<id>yt:video:0zmFDJh0ghE</id>
+		<yt:videoId>0zmFDJh0ghE</yt:videoId>
+		<yt:channelId>UCY1Yc3xA1aY0lqnKUTDTi7A</yt:channelId>
+		<title>
+DIY MOZZ STICKS INSIDE A PIZZA - VERSUS - HAPPY NEW YEAR
+</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=0zmFDJh0ghE"/>
+		<author>
+			<name>HellthyJunkFood</name>
+			<uri>
+https://www.youtube.com/channel/UCY1Yc3xA1aY0lqnKUTDTi7A
+</uri>
+		</author>
+		<published>2017-12-31T15:00:01+00:00</published>
+		<updated>2018-01-16T22:02:53+00:00</updated>
+		<media:group>
+			<media:title>
+DIY MOZZ STICKS INSIDE A PIZZA - VERSUS - HAPPY NEW YEAR
+</media:title>
+			<media:content url="https://www.youtube.com/v/0zmFDJh0ghE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+			<media:thumbnail url="https://i1.ytimg.com/vi/0zmFDJh0ghE/hqdefault.jpg" width="480" height="360"/>
+			<media:description>
+Let's all agree that more cheese is required for 2018. Don't forget to check out our brand new store. http://bit.ly/HJFShop MERCH: http://bit.ly/HJFShop JP and JULIA CHANNEL!! https://www.youtube.com/c/JPJulia FULL RECIPE DETAILS: http://www.hellthyjunkfood.com/mozzstick-pizza/ 🍔Social Media Links🍔 @HellthyJunkFood http://www.facebook.com/hellthyjunkfood http://www.instagram.com/hellthyjunkfood http://www.twitter.com/hellthyjunkfood http://www.patreon.com/hellthyjunkfood http://www.twitch.com/hellthyjunkfood Snapchat - HellthyJunkFood Music - Epidemic Sound
+</media:description>
+			<media:community>
+				<media:starRating count="13386" average="4.92" min="1" max="5"/>
+				<media:statistics views="349903"/>
+			</media:community>
+		</media:group>
+	</entry>
+	<entry>
+		<id>yt:video:IYyjBXDyYLo</id>
+		<yt:videoId>IYyjBXDyYLo</yt:videoId>
+		<yt:channelId>UCY1Yc3xA1aY0lqnKUTDTi7A</yt:channelId>
+		<title>DIY RUGRATS REPTAR BAR - FEATURING REPTILES</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=IYyjBXDyYLo"/>
+		<author>
+			<name>HellthyJunkFood</name>
+			<uri>
+https://www.youtube.com/channel/UCY1Yc3xA1aY0lqnKUTDTi7A
+</uri>
+		</author>
+		<published>2017-12-27T23:00:00+00:00</published>
+		<updated>2018-01-16T21:45:29+00:00</updated>
+		<media:group>
+			<media:title>DIY RUGRATS REPTAR BAR - FEATURING REPTILES</media:title>
+			<media:content url="https://www.youtube.com/v/IYyjBXDyYLo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+			<media:thumbnail url="https://i2.ytimg.com/vi/IYyjBXDyYLo/hqdefault.jpg" width="480" height="360"/>
+			<media:description>
+We got the guys from Get Swamped and SnakeBytesTV to come over and help us make oversized Reptar Bars. Little did we know they were going to bring venomous snakes with them. SUBSCRIBE TO BRIAN: http://bit.ly/2AlxC5a FULL RECIPE DETAILS: http://www.hellthyjunkfood.com/reptar/ THINGS YOU'LL NEED Kitchen Aid: http://amzn.to/1FKv4f0 Small Baking Pan: http://amzn.to/2jG1aR9 Merchandise: http://bit.ly/HJFShop 🍔Social Media Links🍔 @HellthyJunkFood http://www.facebook.com/hellthyjunkfood http://www.instagram.com/hellthyjunkfood http://www.twitter.com/hellthyjunkfood http://www.patreon.com/hellthyjunkfood http://www.twitch.com/hellthyjunkfood Snapchat - HellthyJunkFood Music - Epidemic Sound
+</media:description>
+			<media:community>
+				<media:starRating count="7890" average="4.81" min="1" max="5"/>
+				<media:statistics views="269913"/>
+			</media:community>
+		</media:group>
+	</entry>
+	<entry>
+		<id>yt:video:VjKVgmoYEuc</id>
+		<yt:videoId>VjKVgmoYEuc</yt:videoId>
+		<yt:channelId>UCY1Yc3xA1aY0lqnKUTDTi7A</yt:channelId>
+		<title>DIY CHRISTMAS TREE FRAPPUCCINO</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=VjKVgmoYEuc"/>
+		<author>
+			<name>HellthyJunkFood</name>
+			<uri>
+https://www.youtube.com/channel/UCY1Yc3xA1aY0lqnKUTDTi7A
+</uri>
+		</author>
+		<published>2017-12-24T14:02:27+00:00</published>
+		<updated>2018-01-16T21:18:36+00:00</updated>
+		<media:group>
+			<media:title>DIY CHRISTMAS TREE FRAPPUCCINO</media:title>
+			<media:content url="https://www.youtube.com/v/VjKVgmoYEuc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+			<media:thumbnail url="https://i3.ytimg.com/vi/VjKVgmoYEuc/hqdefault.jpg" width="480" height="360"/>
+			<media:description>
+Starbucks is at it again, doing stuff without coffee... making milkshakes in disguise. It's trendy tho. Happy Holidays! JP and JULIA CHANNEL!! https://www.youtube.com/c/JPJulia FULL RECIPE DETAILS: http://www.hellthyjunkfood.com/christmas-frapp/ MERCH: http://bit.ly/HJFShop 🍔Social Media Links🍔 @HellthyJunkFood http://www.facebook.com/hellthyjunkfood http://www.instagram.com/hellthyjunkfood http://www.twitter.com/hellthyjunkfood http://www.patreon.com/hellthyjunkfood http://www.twitch.com/hellthyjunkfood Snapchat - HellthyJunkFood Music - Epidemic Sound
+</media:description>
+			<media:community>
+				<media:starRating count="8862" average="4.94" min="1" max="5"/>
+				<media:statistics views="205935"/>
+			</media:community>
+		</media:group>
+	</entry>
+	<entry>
+		<id>yt:video:Bkus04-5kWk</id>
+		<yt:videoId>Bkus04-5kWk</yt:videoId>
+		<yt:channelId>UCY1Yc3xA1aY0lqnKUTDTi7A</yt:channelId>
+		<title>DIY GIANT SWISS ROLL - VERSUS</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=Bkus04-5kWk"/>
+		<author>
+			<name>HellthyJunkFood</name>
+			<uri>
+https://www.youtube.com/channel/UCY1Yc3xA1aY0lqnKUTDTi7A
+</uri>
+		</author>
+		<published>2017-12-20T22:01:02+00:00</published>
+		<updated>2018-01-16T22:07:20+00:00</updated>
+		<media:group>
+			<media:title>DIY GIANT SWISS ROLL - VERSUS</media:title>
+			<media:content url="https://www.youtube.com/v/Bkus04-5kWk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+			<media:thumbnail url="https://i3.ytimg.com/vi/Bkus04-5kWk/hqdefault.jpg" width="480" height="360"/>
+			<media:description>
+Use our link http://www.audible.com/hjf, or text promo code hjf to 500-500, to get a FREE audiobook and 30 day trial! JP and Julia are aggressively at it again to create the winning dish in this over-hyped overly-reacted competition. See who wins by voting in the poll!! JP and JULIA CHANNEL!! https://www.youtube.com/c/JPJulia FULL RECIPE DETAILS: http://www.hellthyjunkfood.com/swiss-roll/ Merchandise: http://bit.ly/HJFShop 🍔Social Media Links🍔 @HellthyJunkFood http://www.facebook.com/hellthyjunkfood http://www.instagram.com/hellthyjunkfood http://www.twitter.com/hellthyjunkfood http://www.patreon.com/hellthyjunkfood http://www.twitch.com/hellthyjunkfood Snapchat - HellthyJunkFood This video is sponsored Music - Epidemic Sound
+</media:description>
+			<media:community>
+				<media:starRating count="11678" average="4.91" min="1" max="5"/>
+				<media:statistics views="356983"/>
+			</media:community>
+		</media:group>
+	</entry>
+	<entry>
+		<id>yt:video:w5Ud4QMeio4</id>
+		<yt:videoId>w5Ud4QMeio4</yt:videoId>
+		<yt:channelId>UCY1Yc3xA1aY0lqnKUTDTi7A</yt:channelId>
+		<title>BREAKFAST inside a HASHBROWN - VERSUS</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=w5Ud4QMeio4"/>
+		<author>
+			<name>HellthyJunkFood</name>
+			<uri>
+https://www.youtube.com/channel/UCY1Yc3xA1aY0lqnKUTDTi7A
+</uri>
+		</author>
+		<published>2017-12-17T14:21:17+00:00</published>
+		<updated>2018-01-16T21:44:16+00:00</updated>
+		<media:group>
+			<media:title>BREAKFAST inside a HASHBROWN - VERSUS</media:title>
+			<media:content url="https://www.youtube.com/v/w5Ud4QMeio4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+			<media:thumbnail url="https://i4.ytimg.com/vi/w5Ud4QMeio4/hqdefault.jpg" width="480" height="360"/>
+			<media:description>
+Use my link https://bitly.com/hjf_VRV to get a 30-day ad-free trial of VRV Premium! There's two types of people in this world. Homemade breakfast inside a homemade hashbrown VERSUS a McGriddle inside a McDonald's Hashbrown. What type of person are you? VOTE IN THE POLL!!! JP and JULIA CHANNEL!! https://www.youtube.com/c/JPJulia FULL RECIPE DETAILS: http://www.hellthyjunkfood.com/hash-brown/ Merchandise: http://bit.ly/HJFShop 🍔Social Media Links🍔 @HellthyJunkFood http://www.facebook.com/hellthyjunkfood http://www.instagram.com/hellthyjunkfood http://www.twitter.com/hellthyjunkfood http://www.patreon.com/hellthyjunkfood http://www.twitch.com/hellthyjunkfood Snapchat - HellthyJunkFood This video is sponsored Music - Epidemic Sound
+</media:description>
+			<media:community>
+				<media:starRating count="11767" average="4.93" min="1" max="5"/>
+				<media:statistics views="347806"/>
+			</media:community>
+		</media:group>
+	</entry>
+	<entry>
+		<id>yt:video:eercZz2lYPI</id>
+		<yt:videoId>eercZz2lYPI</yt:videoId>
+		<yt:channelId>UCY1Yc3xA1aY0lqnKUTDTi7A</yt:channelId>
+		<title>
+DIY MAYO and KETCHUP ICE CREAM - CHROMEBOOK WINNERS ANNOUNCED!!!
+</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=eercZz2lYPI"/>
+		<author>
+			<name>HellthyJunkFood</name>
+			<uri>
+https://www.youtube.com/channel/UCY1Yc3xA1aY0lqnKUTDTi7A
+</uri>
+		</author>
+		<published>2017-12-15T00:00:01+00:00</published>
+		<updated>2018-01-16T10:54:15+00:00</updated>
+		<media:group>
+			<media:title>
+DIY MAYO and KETCHUP ICE CREAM - CHROMEBOOK WINNERS ANNOUNCED!!!
+</media:title>
+			<media:content url="https://www.youtube.com/v/eercZz2lYPI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+			<media:thumbnail url="https://i2.ytimg.com/vi/eercZz2lYPI/hqdefault.jpg" width="480" height="360"/>
+			<media:description>
+Is it possible that this actually tastes really good? JP and JULIA CHANNEL!! https://www.youtube.com/c/JPJulia FULL RECIPE DETAILS: http://www.hellthyjunkfood.com/mayo-ketchup/ THINGS YOU'LL NEED Hand Mixer: http://amzn.to/2hOqILI Large Loaf Pan: http://amzn.to/2yLu4Ij Merchandise: http://bit.ly/HJFShop 🍔Social Media Links🍔 @HellthyJunkFood http://www.facebook.com/hellthyjunkfood http://www.instagram.com/hellthyjunkfood http://www.twitter.com/hellthyjunkfood http://www.patreon.com/hellthyjunkfood http://www.twitch.com/hellthyjunkfood Snapchat - HellthyJunkFood Music - Epidemic Sound
+</media:description>
+			<media:community>
+				<media:starRating count="5267" average="4.82" min="1" max="5"/>
+				<media:statistics views="158217"/>
+			</media:community>
+		</media:group>
+	</entry>
+	<entry>
+		<id>yt:video:VcB4hgT4jIc</id>
+		<yt:videoId>VcB4hgT4jIc</yt:videoId>
+		<yt:channelId>UCY1Yc3xA1aY0lqnKUTDTi7A</yt:channelId>
+		<title>CINNABON VS PIZZABON VS BURGERBON</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=VcB4hgT4jIc"/>
+		<author>
+			<name>HellthyJunkFood</name>
+			<uri>
+https://www.youtube.com/channel/UCY1Yc3xA1aY0lqnKUTDTi7A
+</uri>
+		</author>
+		<published>2017-12-12T23:00:01+00:00</published>
+		<updated>2018-01-16T22:11:47+00:00</updated>
+		<media:group>
+			<media:title>CINNABON VS PIZZABON VS BURGERBON</media:title>
+			<media:content url="https://www.youtube.com/v/VcB4hgT4jIc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+			<media:thumbnail url="https://i3.ytimg.com/vi/VcB4hgT4jIc/hqdefault.jpg" width="480" height="360"/>
+			<media:description>
+Find out more about Chromebooks, here - https://goo.gl/zZyM4s This video is sponsored by Chromebooks GIVEAWAY RULES: 1. Click the link here: https://goo.gl/zZyM4s 2. Comment on the video something funny 3. Like the video I think we can all agree that after cheese teas and clear pie we gotta make something that's going to please JP. JP and JULIA CHANNEL!! https://www.youtube.com/c/JPJulia FULL RECIPE DETAILS: http://www.hellthyjunkfood.com/pizzabon/ Merchandise: http://bit.ly/HJFShop 🍔Social Media Links🍔 @HellthyJunkFood http://www.facebook.com/hellthyjunkfood http://www.instagram.com/hellthyjunkfood http://www.twitter.com/hellthyjunkfood http://www.patreon.com/hellthyjunkfood http://www.twitch.com/hellthyjunkfood Snapchat - HellthyJunkFood Music - Epidemic Sound
+</media:description>
+			<media:community>
+				<media:starRating count="20829" average="4.95" min="1" max="5"/>
+				<media:statistics views="409263"/>
+			</media:community>
+		</media:group>
+	</entry>
+	<entry>
+		<id>yt:video:boUhnE06eIs</id>
+		<yt:videoId>boUhnE06eIs</yt:videoId>
+		<yt:channelId>UCY1Yc3xA1aY0lqnKUTDTi7A</yt:channelId>
+		<title>DIY GIANT QUESADILLA + EATING COMPETITION</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=boUhnE06eIs"/>
+		<author>
+			<name>HellthyJunkFood</name>
+			<uri>
+https://www.youtube.com/channel/UCY1Yc3xA1aY0lqnKUTDTi7A
+</uri>
+		</author>
+		<published>2017-12-07T23:00:01+00:00</published>
+		<updated>2018-01-16T21:50:55+00:00</updated>
+		<media:group>
+			<media:title>DIY GIANT QUESADILLA + EATING COMPETITION</media:title>
+			<media:content url="https://www.youtube.com/v/boUhnE06eIs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+			<media:thumbnail url="https://i3.ytimg.com/vi/boUhnE06eIs/hqdefault.jpg" width="480" height="360"/>
+			<media:description>
+We highly recommend that everybody do this. RULES TO GET FEATURED!! Go to your nearest Qdoba - https://www.qdoba.com/locations Take a picture of your food TAG US @HeLLthyJunkFood and @Qdoba on FB, IG and Twitter!! FULL RECIPE DETAILS: http://www.hellthyjunkfood.com/quesadilla/ Credits: John Madden: https://www.youtube.com/YouGoPro Tama Tonga: https://twitter.com/Tama_Tonga Tanga Loa: https://twitter.com/TangaloaNJPW Gus Fernandez: https://twitter.com/forusmediagroup Nathan Figueroa: https://www.youtube.com/natefiggs Merchandise: http://bit.ly/HJFShop 🍔Social Media Links🍔 @HellthyJunkFood http://www.facebook.com/hellthyjunkfood http://www.instagram.com/hellthyjunkfood http://www.twitter.com/hellthyjunkfood http://www.patreon.com/hellthyjunkfood http://www.twitch.com/hellthyjunkfood Snapchat - HellthyJunkFood This video is sponsored Music - Epidemic Sound
+</media:description>
+			<media:community>
+				<media:starRating count="11053" average="4.91" min="1" max="5"/>
+				<media:statistics views="379059"/>
+			</media:community>
+		</media:group>
+	</entry>
+	<entry>
+		<id>yt:video:iAxYEkEkCqo</id>
+		<yt:videoId>iAxYEkEkCqo</yt:videoId>
+		<yt:channelId>UCY1Yc3xA1aY0lqnKUTDTi7A</yt:channelId>
+		<title>FLAMIN' HOT MAC N' CHEETOS - DIY vs BK vs Frozen</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=iAxYEkEkCqo"/>
+		<author>
+			<name>HellthyJunkFood</name>
+			<uri>
+https://www.youtube.com/channel/UCY1Yc3xA1aY0lqnKUTDTi7A
+</uri>
+		</author>
+		<published>2017-12-05T22:58:55+00:00</published>
+		<updated>2018-01-16T21:43:19+00:00</updated>
+		<media:group>
+			<media:title>FLAMIN' HOT MAC N' CHEETOS - DIY vs BK vs Frozen</media:title>
+			<media:content url="https://www.youtube.com/v/iAxYEkEkCqo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+			<media:thumbnail url="https://i2.ytimg.com/vi/iAxYEkEkCqo/hqdefault.jpg" width="480" height="360"/>
+			<media:description>
+Burger King keeps surprising us with things that already exist in the freezer isle. Let's see how they compare! JP and JULIA CHANNEL!! https://www.youtube.com/c/JPJulia FULL RECIPE DETAILS: http://www.hellthyjunkfood.com/hot-cheetos/ THINGS YOU'LL NEED Deep Fryer: http://amzn.to/2nHDBe6 Food Processor: http://amzn.to/1M9eyFc Merchandise: http://bit.ly/HJFShop 🍔Social Media Links🍔 @HellthyJunkFood http://www.facebook.com/hellthyjunkfood http://www.instagram.com/hellthyjunkfood http://www.twitter.com/hellthyjunkfood http://www.patreon.com/hellthyjunkfood http://www.twitch.com/hellthyjunkfood Snapchat - HellthyJunkFood Music - Epidemic Sound
+</media:description>
+			<media:community>
+				<media:starRating count="9377" average="4.89" min="1" max="5"/>
+				<media:statistics views="373048"/>
+			</media:community>
+		</media:group>
+	</entry>
+	<entry>
+		<id>yt:video:iMg9ibfcBnM</id>
+		<yt:videoId>iMg9ibfcBnM</yt:videoId>
+		<yt:channelId>UCY1Yc3xA1aY0lqnKUTDTi7A</yt:channelId>
+		<title>DIY PIZZA POUCH and WEARABLE PIZZA</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=iMg9ibfcBnM"/>
+		<author>
+			<name>HellthyJunkFood</name>
+			<uri>
+https://www.youtube.com/channel/UCY1Yc3xA1aY0lqnKUTDTi7A
+</uri>
+		</author>
+		<published>2017-12-03T14:00:06+00:00</published>
+		<updated>2018-01-16T06:42:47+00:00</updated>
+		<media:group>
+			<media:title>DIY PIZZA POUCH and WEARABLE PIZZA</media:title>
+			<media:content url="https://www.youtube.com/v/iMg9ibfcBnM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+			<media:thumbnail url="https://i2.ytimg.com/vi/iMg9ibfcBnM/hqdefault.jpg" width="480" height="360"/>
+			<media:description>
+Pizza Pouches might be the most practical thing we've ever done on this channel. SUBSCRIBE TO ERIK MYERS: https://www.youtube.com/user/MrErikmyers FULL RECIPE DETAILS: http://www.hellthyjunkfood.com/pizza-pouch/ THINGS YOU'LL NEED Lobster Claw Clasp: http://amzn.to/2jGqkir Heavy Duty Plastic Bags: http://amzn.to/2AjyGXr Heat Sealer: http://amzn.to/2jFHzjR Eyelet Outlet: http://amzn.to/2ADwtXe Ribbon: http://amzn.to/2i9gPbg Hammer: http://amzn.to/2jaknej Hole Punch: http://amzn.to/2BBdM4h Pizza Slice Merchandise: http://bit.ly/HJFShop 🍔Social Media Links🍔 @HellthyJunkFood http://www.facebook.com/hellthyjunkfood http://www.instagram.com/hellthyjunkfood http://www.twitter.com/hellthyjunkfood http://www.patreon.com/hellthyjunkfood http://www.twitch.com/hellthyjunkfood Snapchat - HellthyJunkFood Music - Epidemic Sound
+</media:description>
+			<media:community>
+				<media:starRating count="6650" average="4.36" min="1" max="5"/>
+				<media:statistics views="219675"/>
+			</media:community>
+		</media:group>
+	</entry>
+	<entry>
+		<id>yt:video:nI8Cti0_T00</id>
+		<yt:videoId>nI8Cti0_T00</yt:videoId>
+		<yt:channelId>UCY1Yc3xA1aY0lqnKUTDTi7A</yt:channelId>
+		<title>WE WORK AT DOMINO'S FOR A DAY</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=nI8Cti0_T00"/>
+		<author>
+			<name>HellthyJunkFood</name>
+			<uri>
+https://www.youtube.com/channel/UCY1Yc3xA1aY0lqnKUTDTi7A
+</uri>
+		</author>
+		<published>2017-11-29T23:00:03+00:00</published>
+		<updated>2018-01-16T20:12:59+00:00</updated>
+		<media:group>
+			<media:title>WE WORK AT DOMINO'S FOR A DAY</media:title>
+			<media:content url="https://www.youtube.com/v/nI8Cti0_T00?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+			<media:thumbnail url="https://i3.ytimg.com/vi/nI8Cti0_T00/hqdefault.jpg" width="480" height="360"/>
+			<media:description>
+My dream (jp) came true today. I got to learn how to make my favorite pizza at Dominos. #notsponsored JP and JULIA CHANNEL!! https://www.youtube.com/c/JPJulia Merchandise: http://bit.ly/HJFShop 🍔Social Media Links🍔 @HellthyJunkFood http://www.facebook.com/hellthyjunkfood http://www.instagram.com/hellthyjunkfood http://www.twitter.com/hellthyjunkfood http://www.patreon.com/hellthyjunkfood http://www.twitch.com/hellthyjunkfood Snapchat - HellthyJunkFood Music - Epidemic Sound
+</media:description>
+			<media:community>
+				<media:starRating count="11946" average="4.89" min="1" max="5"/>
+				<media:statistics views="520584"/>
+			</media:community>
+		</media:group>
+	</entry>
+	<entry>
+		<id>yt:video:ar_aNVJ5krM</id>
+		<yt:videoId>ar_aNVJ5krM</yt:videoId>
+		<yt:channelId>UCY1Yc3xA1aY0lqnKUTDTi7A</yt:channelId>
+		<title>DIY GIANT BANANA SPLIT - VERSUS</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=ar_aNVJ5krM"/>
+		<author>
+			<name>HellthyJunkFood</name>
+			<uri>
+https://www.youtube.com/channel/UCY1Yc3xA1aY0lqnKUTDTi7A
+</uri>
+		</author>
+		<published>2017-11-26T14:00:01+00:00</published>
+		<updated>2018-01-16T22:02:52+00:00</updated>
+		<media:group>
+			<media:title>DIY GIANT BANANA SPLIT - VERSUS</media:title>
+			<media:content url="https://www.youtube.com/v/ar_aNVJ5krM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+			<media:thumbnail url="https://i2.ytimg.com/vi/ar_aNVJ5krM/hqdefault.jpg" width="480" height="360"/>
+			<media:description>
+Can someone tell us how to make a giant mutated banana? JP and JULIA CHANNEL!! https://www.youtube.com/c/JPJulia FULL RECIPE DETAILS: http://www.hellthyjunkfood.com/banana-split/ SUBSCRIBE and FOLLOW: John Madden: https://www.youtube.com/YouGoPro Tama Tonga: https://twitter.com/Tama_Tonga Tanga Loa: https://twitter.com/TangaloaNJPW Gus Fernandez: https://twitter.com/forusmediagroup Nathan Figueroa: https://www.youtube.com/natefiggs Merchandise: http://bit.ly/HJFShop 🍔Social Media Links🍔 @HellthyJunkFood http://www.facebook.com/hellthyjunkfood http://www.instagram.com/hellthyjunkfood http://www.twitter.com/hellthyjunkfood http://www.patreon.com/hellthyjunkfood http://www.twitch.com/hellthyjunkfood Snapchat - HellthyJunkFood Music - Epidemic Sound
+</media:description>
+			<media:community>
+				<media:starRating count="9264" average="4.89" min="1" max="5"/>
+				<media:statistics views="354905"/>
+			</media:community>
+		</media:group>
+	</entry>
+	<entry>
+		<id>yt:video:pgl1ar7ge9I</id>
+		<yt:videoId>pgl1ar7ge9I</yt:videoId>
+		<yt:channelId>UCY1Yc3xA1aY0lqnKUTDTi7A</yt:channelId>
+		<title>DIY CHEESE TEA - Feat. Mom</title>
+		<link rel="alternate" href="https://www.youtube.com/watch?v=pgl1ar7ge9I"/>
+		<author>
+			<name>HellthyJunkFood</name>
+			<uri>
+https://www.youtube.com/channel/UCY1Yc3xA1aY0lqnKUTDTi7A
+</uri>
+		</author>
+		<published>2017-11-22T19:23:55+00:00</published>
+		<updated>2018-01-16T21:41:29+00:00</updated>
+		<media:group>
+			<media:title>DIY CHEESE TEA - Feat. Mom</media:title>
+			<media:content url="https://www.youtube.com/v/pgl1ar7ge9I?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+			<media:thumbnail url="https://i1.ytimg.com/vi/pgl1ar7ge9I/hqdefault.jpg" width="480" height="360"/>
+			<media:description>
+Believe it or not, this is actually a thing... that's coming to the US... We couldn't wait to see what this taste like, so we had to make one... or two or three until it tasted... well you try it out. JP and JULIA CHANNEL!! https://www.youtube.com/c/JPJulia THINGS YOU'LL NEED Hand Mixer: http://amzn.to/2hOqILI Keurig: http://amzn.to/2hQXtbn Merchandise: http://bit.ly/HJFShop FULL RECIPE DETAILS: http://www.hellthyjunkfood.com/cheese-tea/ 🍔Social Media Links🍔 @HellthyJunkFood http://www.facebook.com/hellthyjunkfood http://www.instagram.com/hellthyjunkfood http://www.twitter.com/hellthyjunkfood http://www.patreon.com/hellthyjunkfood http://www.twitch.com/hellthyjunkfood Snapchat - HellthyJunkFood Music - Epidemic Sound
+</media:description>
+			<media:community>
+				<media:starRating count="6589" average="4.90" min="1" max="5"/>
+				<media:statistics views="194330"/>
+			</media:community>
+		</media:group>
+	</entry>
+</feed>
