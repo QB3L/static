@@ -17,6 +17,13 @@ function createCustomElement(templateId, elementName, callback) {
 
 			callback(shadow, templateId);
 		}
+		connectedCallback() {
+			console.log('Custom element added to page.');
+		}
+
+		disconnectedCallback() {
+			console.log('Custom element removed from page.');
+		}
 	}
 	customElements.define(elementName, CustomElement);
 }
