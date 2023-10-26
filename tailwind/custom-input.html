@@ -1,0 +1,22 @@
+<script src="./components.js"></script>
+
+<template id="custom-input-template">
+	<style>
+		/* Define the CSS styles for your input component */
+		input.custom-input {
+			padding: 10px;
+			border: 1px solid #ccc;
+			width: 100%;
+		}
+	</style>
+	<input class="custom-input" placeholder="Enter text" />
+</template>
+
+<script>
+	createCustomElement('custom-input-template', 'custom-input', (shadow) => {
+		const input = shadow.querySelector('input');
+		input.addEventListener('input', (event) => {
+			console.log('Input value: ', event.target.value);
+		});
+	});
+</script>
