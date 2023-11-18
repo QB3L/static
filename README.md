@@ -1,2 +1,3 @@
 # static
-Static webpages for people to see
+
+Static webpages for people to see.
